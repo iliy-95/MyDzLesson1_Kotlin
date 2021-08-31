@@ -1,0 +1,2 @@
+rootProject.name = "MyDzLesson1_Kotlin"
+include ':app'
